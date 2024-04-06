@@ -1,0 +1,1 @@
+chrome-extension://fihnjjcciajhdojfnbdddfaoknhalnja/data/js/embeds.js
